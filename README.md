@@ -4,9 +4,9 @@ I'm a Computer Science Honors student at the University of Alberta focused on AI
 
 My portfolio: [prerna-portfolio-self.vercel.app](https://prerna-portfolio-self.vercel.app)
 
-- 🚀 I'm currently building [Ghost AI](https://github.com/prernasumesh/GhostAI) — a real-time collaborative canvas for sketching system architecture, with live cursors and a custom shape system for services, databases, and infrastructure
-- 🌱 Right now I'm exploring cloud infrastructure and cost-efficient LLM routing
-- ⚡ Fun fact: I spent a summer at Emirates Group evaluating flight demand forecasts across a 40-billion-row Snowflake table, and built a GenAI layer that explains flight clusters in plain language without letting the model touch the numbers
+- I'm currently building [Ghost AI](https://github.com/prernasumesh/GhostAI) — a real-time collaborative canvas for sketching system architecture, with live cursors and a custom shape system for services, databases, and infrastructure
+- Right now I'm exploring cloud infrastructure and cost-efficient LLM routing
+- Fun fact: I spent a summer at Emirates Group evaluating flight demand forecasts across a 40-billion-row Snowflake table, and built a GenAI layer that explains flight clusters in plain language without letting the model touch the numbers
 
 ## Connect with me:
 
